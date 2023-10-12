@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">contohFragment2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Ini adalah Halaman Home Fragment!\n klik button fragment 2 untuk mengganti halaman</string>
+</resources>
